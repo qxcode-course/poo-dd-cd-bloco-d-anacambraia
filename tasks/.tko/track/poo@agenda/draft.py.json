@@ -1,0 +1,109 @@
+{
+    "patches": [
+        {
+            "label": "2025-11-26_18-39-26",
+            "content": "@@ -1,924 +0,0 @@\n-nauhuhfhcjnuheihwi%0Ahuiewhfubcbjuwhw%0Akjehfuichffjbrhivgruhf%0Aiehuqgfyrwwwwwwwwwwwwwwwwwwwwwww%0Awppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp%0Afkrrrrrrrrrrrrrrrrrrrrrohjgubfhbvhhbkhbcgwy rgunjneuufyhbrhb%0Aieuy7yfhwbisibrhheyguow98wohlruhohihr%0Aieuwoify8uy7uyrrfuifbhdcjsbcbcjhgdyfggqobluch%0Aowiehfhjrfhggchbbvygrijdhslchyvbrkjsdj%0Ahfeuhfchdcklsdjgvuyjgfvbrkbfwhkdskweoiposndjhgvjhe%0Avj fjhfjkw jwhbrwwhiuedgcuew druwhgfuichrg%0Aiewhfuchwub     uhduewf%0A        uegwfbuigwugfciwe%0A            uewghiufgiwbhcbw%0Ahewufcuheiurhjb%0Aoweihfc8hy8rhfbkwbeo        dniuehrgufrebfubr%0A    jn vibeughvetrimviejhn%0A    eroiujivhnerjnfkjvre%0A    kerhfvbrkq%0A        iehuhcouhirng%0A%0A    huhwdubghf80vhc %0A%0Aijhihwqvhuoryhg%0Aewkjhcforgnuhkjdj88yfr%0Ahguthgjkjghvuh%0Ahuhfuvtbghviu g%0Ahurwefuchjnjnugygfcdj%0A    iu9ghrbkbfviw9jefojew%0A    fvjhroeuyhbtkbwelfhdvugrklwmnedcijie%0A    rhfiuuwrkbkjdjln mnfdbddviugk hfugeirrwiufwj ihwsugf3bljw\n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-11-26_18-41-47",
+            "content": "@@ -921,409 +921,4 @@\n bljw\n-%0A    dtdudidi%0A    yfudluitdtudcul%0A    uytttttttttttttttrksyfliiiiiiiiiiyftdt%0A    dy7tyutuyfrtswevugbuifrsedfcm%0A    dxsddxfckyuflgygbhbkjnuygykuh%0A    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh%0A    joihucheuwhvd   jijewjfjijvi%0A    ehfuhwujdfuhw7 whuifh9uwiubjhierj jifjiwjjfijw9jj%0A    iurhfurhvuirhehuhre\n",
+            "lines": "31"
+        },
+        {
+            "label": "2025-11-26_20-31-10",
+            "content": "@@ -1045,99 +1045,285 @@\n xfck\n-=fvjrwjijijhetjgvr%0A    iruihuhwoahuihue%0A    ehruvhutrehbuohi%0A    fruhhuhhfurhu\n+yuflgygbhbkjnuygykuh%0A    hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh%0A    joihucheuwhvd   jijewjfjijvi%0A    ehfuhwujdfuhw7 w\n hu\n+i\n fh\n-uuhuhuhhuhuhu\n+9uwiubjhierj jifjiwjjfijw9jj%0A    iurhfurhvuirhehuhre\n",
+            "lines": "40"
+        },
+        {
+            "label": "2025-11-26_20-34-44",
+            "content": "@@ -1140,44 +1140,4 @@\n huhu\n-%0A    gryegyvbuuvhrhuhev%0A    ijbuvhtuhibj\n",
+            "lines": "39"
+        },
+        {
+            "label": "2025-11-26_20-37-33",
+            "content": "@@ -1180,45 +1180,4 @@\n hibj\n-%0A    uhcurhuhuchuhwr%0A    piwehcurhpa%0A    \n",
+            "lines": "41"
+        },
+        {
+            "label": "2025-11-26_20-38-03",
+            "content": "@@ -1221,120 +1221,4 @@\n     \n-fnviufnninv%0A    osdnvbw%C3%B3oooooooo%0A    0icvhrunvjuneruvniunw%0A    peijwoinceo%C2%B4wn%5B%0A        %5Bwfv%5Borwa%5Ba%0A        %5D%5D%5D%0A    %5D\n",
+            "lines": "44"
+        },
+        {
+            "label": "2025-11-26_20-45-56",
+            "content": "@@ -1337,184 +1337,4 @@\n    %5D\n-%0A    sofhbuvjbsujbnov%0A    vnboejnvneipkngb%0A    pviknroejnvjn%5Btiegn%0A    otenv%5Bqa%C2%B4vm%5Ba%C2%B4v%0A    ieknv%5B%5Ba%0A    v%0A    pvoj%5Bj%0A    vnboejnvneipkngbeg%C2%B4%0A    ojb0t-obj%0A    %0A    pjbijt%C2%B4jt%C3%B3%5D%5D%5D%5D%5D%5D\n",
+            "lines": "50"
+        },
+        {
+            "label": "2025-11-26_20-47-51",
+            "content": "@@ -1517,185 +1517,4 @@\n %5D%5D%5D%5D\n-%0A    ijejfikjk%5Ba%5B%5D%5D%0A    ugcirhuhbrbuvbef%5B%0A        wfjiuvibhvbkjwnoihcubrg ruibvwf%0A        ~rhviugeiubgjnwufhgfjkn%0A        gobfyiwgcbvwkhbfwfugwcjhhjdpwg%0A        wwgiwgfhfbwehf%0A    %5D\n",
+            "lines": "61"
+        },
+        {
+            "label": "2025-11-26_20-58-52",
+            "content": "@@ -1693,445 +1693,8 @@\n ehf%0A\n-        ugdueuobuedbwujfugwebj%0A        r%C3%A7opejmfcirejhighjhvuohre nfruohrufvjbrugeu7qg he8vhguherubgv%0A        prehf8vhrouhbgfuvhueqabj jkveghuivgulihigjgrjhgbv%0A        giheotuhgvheljbkjvhuqyvkhntuhgi%0A        perofjorhjbkhbfvugug%0A        kwjdfbhgouwihjbflajkfhlkjhfurujbjjhucfvygkt jbfiuywgtieflkhffhv8urhjgb%0A        rheoufvgurefbblwskdhcofhyuert bnfvjurvghughy43whj9u4308kfvnihkjaavougu jhfvoehygt%0A        ajhufguljabuvgureairgujbvkgeruh%0A\n     \n",
+            "lines": "68"
+        },
+        {
+            "label": "2025-11-26_23-52-59",
+            "content": "@@ -2130,158 +2130,8 @@\n ruh%0A\n-        jbhyucag%C3%A7vkd njknaon jkna%0A        iubvdysebknmoas vihsa97vhg7esh saihvu97hes mavijhsuheg%0A        cmjsij%5Chvu dji vjhdjiidmkdygsdlmisd%0A        %0A\n     \n",
+            "lines": "76"
+        },
+        {
+            "label": "2025-11-29_15-40-17",
+            "content": "@@ -2271,165 +2271,8 @@\n isd%0A\n-        asjbe~f%5Bkeg~jrgs%C2%B4go%5D%0A        pidhsviswe~m%5B%0A            psijhvdiskvijdijgml%C3%A7d,v%5Dpsjv0hpsngknduhune/jbsrwugbjg%5Csa%0A            ksngvuhruontgr%0A        %5D%0A\n     \n",
+            "lines": "80"
+        },
+        {
+            "label": "2025-11-29_17-44-35",
+            "content": "@@ -1,2764 +1,2445 @@\n-class Fone:%0A    def __init__(self, id: str, number: str):%0A        self.id = id%0A        self.number = number%0A%0A    def isValid(self) -%3E bool:%0A        valid = %220123456789().%22%0A        return all(c in valid for c in self.number)%0A%0A    def __str__(self):%0A        return f%22%7Bself.id%7D:%7Bself.number%7D%22%0A%0A    def toString(self) -%3E str:%0A        return self.__str__()%0A%0Aclass Contact:%0A    def __init__(self, name : str):%0A        self.name = name%0A        self.favorited = False%0A        self.fones: list%5BFone%5D = %5B%5D%0A%0A    def addFone(self, id: str, number: str):%0A        f = Fone(id, number)%0A        if f.isValid():%0A            self.fones.append(f)%0A        else:%0A            print(%22fail: n%C3%BAmero inv%C3%A1lido%22)%0A%0A    def rmFone(self, index: int):%0A        if 0 %3C= index %3C len(self.fones):%0A            self.fones.pop(index)%0A        else:%0A            print(%22fail: %C3%ADndice inv%C3%A1lido%22)%0A%0A    def toggleFavorited(self):%0A        self.favorited = not self.favorited%0A%0A    def isFavorited(self) -%3E bool:%0A        return self.favorited%0A%0A    def getName(self) -%3E str:%0A        return self.name%0A%0A    def getFones(self):%0A        return self.fones%0A%0A    def __str__(self):%0A        prefix = %22@%22 if self.favorited else %22-%22%0A        fones_str = %22, %22.join(str(f) for f in self.fones)%0A        return f%22%7Bprefix%7D %7Bself.name%7D %5B%7Bfones_str%7D%5D%22%0A%0A    def toString(self):%0A        return self.__str__()%0A%0Aclass Agenda:%0A    def __init__(self):%0A        self.contacts : list%5BContact%5D = %5B%5D%0A%0A    def findPosByName(self, name: str) -%3E int:%0A        for i, c in enumerate(self.contacts):%0A            if c.getName() == name:%0A                return i%0A%0A        return -1%0A%0A    def addContact(self, name: str, fones: list%5BFone%5D):%0A        pos = self.findPosByName(name)%0A%0A        if pos == -1:%0A            c = Contact(name)%0A            self.contacts.append(c)%0A            self.contacts.sort(key=lambda x: x.getName())%0A            pos = self.findPosByName(name)%0A%0A        for f in fones:%0A            if f.isValid():%0A                self.contacts%5Bpos%5D.addFone(f.id, f.number)%0A            else:%0A                print(%22fail: n%C3%BAmero inv%C3%A1lido%22)%0A    def getContact(self, name: str):%0A        pos = self.findPosByName(name)%0A        return self.contacts%5Bpos%5D if pos != -1 else None%0A%0A    def rmContact(self, name: str):%0A        pos = self.findPosByName(name)%0A        if pos == -1:%0A            print(%22fail: contato n%C3%A3o existe%22)%0A            return%0A        self.contacts.pop(pos)%0A%0A    def search(self, pattern: str):%0A        result = %5B%5D%0A        for c in self.contacts:%0A            if pattern in c.getName():%0A                result.append(c)%0A                continue%0A%0A            for f in c.getFones():%0A                if pattern in f.id or pattern in f.number:%0A                    result.append(c)%0A                    break%0A%0A        return result%0A            \n+nauhuhfhcjnuheihwi%0Ahuiewhfubcbjuwhw%0Akjehfuichffjbrhivgruhf%0Aiehuqgfyrwwwwwwwwwwwwwwwwwwwwwww%0Awppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp%0Afkrrrrrrrrrrrrrrrrrrrrrohjgubfhbvhhbkhbcgwy rgunjneuufyhbrhb%0Aieuy7yfhwbisibrhheyguow98wohlruhohihr%0Aieuwoify8uy7uyrrfuifbhdcjsbcbcjhgdyfggqobluch%0Aowiehfhjrfhggchbbvygrijdhslchyvbrkjsdj%0Ahfeuhfchdcklsdjgvuyjgfvbrkbfwhkdskweoiposndjhgvjhe%0Avj fjhfjkw jwhbrwwhiuedgcuew druwhgfuichrg%0Aiewhfuchwub     uhduewf%0A        uegwfbuigwugfciwe%0A            uewghiufgiwbhcbw%0Ahewufcuheiurhjb%0Aoweihfc8hy8rhfbkwbeo        dniuehrgufrebfubr%0A    jn vibeughvetrimviejhn%0A    eroiujivhnerjnfkjvre%0A    kerhfvbrkq%0A        iehuhcouhirng%0A%0A    huhwdubghf80vhc %0A%0Aijhihwqvhuoryhg%0Aewkjhcforgnuhkjdj88yfr%0Ahguthgjkjghvuh%0Ahuhfuvtbghviu g%0Ahurwefuchjnjnugygfcdj%0A    iu9ghrbkbfviw9jefojew%0A    fvjhroeuyhbtkbwelfhdvugrklwmnedcijie%0A    rhfiuuwrkbkjdjln mnfdbddviugk hfugeirrwiufwj ihwsugf3bljw%0A    dtdudidi%0A    yfudluitdtudcul%0A    uytttttttttttttttrksyfliiiiiiiiiiyftdt%0A    dy7tyutuyfrtswevugbuifrsedfcm%0A    dxsddxfck=fvjrwjijijhetjgvr%0A    iruihuhwoahuihue%0A    ehruvhutrehbuohi%0A    fruhhuhhfurhuhufhuuhuhuhhuhuhu%0A    gryegyvbuuvhrhuhev%0A    ijbuvhtuhibj%0A    uhcurhuhuchuhwr%0A    piwehcurhpa%0A    fnviufnninv%0A    osdnvbw%C3%B3oooooooo%0A    0icvhrunvjuneruvniunw%0A    peijwoinceo%C2%B4wn%5B%0A        %5Bwfv%5Borwa%5Ba%0A        %5D%5D%5D%0A    %5D%0A    sofhbuvjbsujbnov%0A    vnboejnvneipkngb%0A    pviknroejnvjn%5Btiegn%0A    otenv%5Bqa%C2%B4vm%5Ba%C2%B4v%0A    ieknv%5B%5Ba%0A    v%0A    pvoj%5Bj%0A    vnboejnvneipkngbeg%C2%B4%0A    ojb0t-obj%0A    %0A    pjbijt%C2%B4jt%C3%B3%5D%5D%5D%5D%5D%5D%0A    ijejfikjk%5Ba%5B%5D%5D%0A    ugcirhuhbrbuvbef%5B%0A        wfjiuvibhvbkjwnoihcubrg ruibvwf%0A        ~rhviugeiubgjnwufhgfjkn%0A        gobfyiwgcbvwkhbfwfugwcjhhjdpwg%0A        wwgiwgfhfbwehf%0A        ugdueuobuedbwujfugwebj%0A        r%C3%A7opejmfcirejhighjhvuohre nfruohrufvjbrugeu7qg he8vhguherubgv%0A        prehf8vhrouhbgfuvhueqabj jkveghuivgulihigjgrjhgbv%0A        giheotuhgvheljbkjvhuqyvkhntuhgi%0A        perofjorhjbkhbfvugug%0A        kwjdfbhgouwihjbflajkfhlkjhfurujbjjhucfvygkt jbfiuywgtieflkhffhv8urhjgb%0A        rheoufvgurefbblwskdhcofhyuert bnfvjurvghughy43whj9u4308kfvnihkjaavougu jhfvoehygt%0A        ajhufguljabuvgureairgujbvkgeruh%0A        jbhyucag%C3%A7vkd njknaon jkna%0A        iubvdysebknmoas vihsa97vhg7esh saihvu97hes mavijhsuheg%0A        cmjsij%5Chvu dji vjhdjiidmkdygsdlmisd%0A        asjbe~f%5Bkeg~jrgs%C2%B4go%5D%0A        pidhsviswe~m%5B%0A            psijhvdiskvijdijgml%C3%A7d,v%5Dpsjv0hpsngknduhune/jbsrwugbjg%5Csa%0A            ksngvuhruontgr%0A        %5D%0A        %0A    %5D\n",
+            "lines": "85"
+        },
+        {
+            "label": "2025-11-29_19-14-29",
+            "content": "@@ -2749,290 +2749,12 @@\n ult%0A\n-%0A\n     \n-def getFavorited(self):%0A        return %5Bc for c in self.contacts if c.isFavorited()%5D%0A%0A    def getContacts(self):%0A        return self.contacts%0A%0A    def __str__(self):%0A        return %22%5Cn%22.join(str(c) for c in self.contacts)%0A%0A    def toString(self):%0A        return self.__str__()%0A\n     \n",
+            "lines": "104"
+        },
+        {
+            "label": "2025-11-29_19-19-01",
+            "content": "@@ -3031,491 +3031,12 @@\n _()%0A\n-%0Adef main():%0A    agenda = Agenda()%0A    while True:%0A        line = input()%0A        print(%22$%22 + line)%0A        args = line.split(%22 %22)%0A%0A        if args%5B0%5D == %22end%22:%0A            break%0A        elif args%5B0%5D == %22add%22:%0A            name = args%5B1%5D%0A            fones = %5B%5D%0A            for item in args%5B2:%5D:%0A                id, num = item.split(%22:%22)%0A                fones.append(Fone(id, num))%0A            agenda.addContact(name, fones)%0A        elif args%5B0%5D == %22show%22:%0A            print(agenda)%0Amain()\n+        \n",
+            "lines": "116"
+        },
+        {
+            "label": "2025-11-29_19-32-29",
+            "content": "@@ -3512,148 +3512,8 @@\n da)%0A\n-        elif args%5B0%5D == %22rmFone%22:%0A            name = args%5B1%5D%0A            index = int(args%5B2%5D)%0A            contact = agenda.getContact(name)%0A\n main\n",
+            "lines": "135"
+        },
+        {
+            "label": "2025-11-29_19-34-45",
+            "content": "@@ -3652,42 +3652,8 @@\n me)%0A\n-            contact.rmFone(index)%0A\n main\n",
+            "lines": "139"
+        },
+        {
+            "label": "2025-11-29_19-38-09",
+            "content": "@@ -3686,76 +3686,8 @@\n ex)%0A\n-        elif args%5B0%5D == %22rm%22:%0A            agenda.rmContact(args%5B1%5D)%0A\n main\n",
+            "lines": "140"
+        },
+        {
+            "label": "2025-11-29_19-39-10",
+            "content": "@@ -3754,164 +3754,8 @@\n 1%5D)%0A\n-        elif args%5B0%5D == %22search%22:%0A            pattern = args%5B1%5D%0A            res = agenda.search(pattern)%0A            for c in res:%0A                print(c)%0A\n main\n",
+            "lines": "142"
+        },
+        {
+            "label": "2025-11-29_19-45-46",
+            "content": "@@ -3910,96 +3910,8 @@\n (c)%0A\n-        elif args%5B0%5D == %22tfav%22:%0A            c = agenda.getContact(args%5B1%5D)%0A            %0A\n main\n",
+            "lines": "147"
+        },
+        {
+            "label": "2025-11-29_19-47-15",
+            "content": "@@ -3997,28 +3997,8 @@\n     \n-c.toggleFavorited()%0A\n %0Amai\n",
+            "lines": "150"
+        },
+        {
+            "label": "2025-11-29_19-47-33",
+            "content": "class Fone:\n    def __init__(self, id: str, number: str):\n        self.id = id\n        self.number = number\n\n    def isValid(self) -> bool:\n        valid = \"0123456789().\"\n        return all(c in valid for c in self.number)\n\n    def __str__(self):\n        return f\"{self.id}:{self.number}\"\n\n    def toString(self) -> str:\n        return self.__str__()\n\nclass Contact:\n    def __init__(self, name : str):\n        self.name = name\n        self.favorited = False\n        self.fones: list[Fone] = []\n\n    def addFone(self, id: str, number: str):\n        f = Fone(id, number)\n        if f.isValid():\n            self.fones.append(f)\n        else:\n            print(\"fail: n\u00famero inv\u00e1lido\")\n\n    def rmFone(self, index: int):\n        if 0 <= index < len(self.fones):\n            self.fones.pop(index)\n        else:\n            print(\"fail: \u00edndice inv\u00e1lido\")\n\n    def toggleFavorited(self):\n        self.favorited = not self.favorited\n\n    def isFavorited(self) -> bool:\n        return self.favorited\n\n    def getName(self) -> str:\n        return self.name\n\n    def getFones(self):\n        return self.fones\n\n    def __str__(self):\n        prefix = \"@\" if self.favorited else \"-\"\n        fones_str = \", \".join(str(f) for f in self.fones)\n        return f\"{prefix} {self.name} [{fones_str}]\"\n\n    def toString(self):\n        return self.__str__()\n\nclass Agenda:\n    def __init__(self):\n        self.contacts : list[Contact] = []\n\n    def findPosByName(self, name: str) -> int:\n        for i, c in enumerate(self.contacts):\n            if c.getName() == name:\n                return i\n\n        return -1\n\n    def addContact(self, name: str, fones: list[Fone]):\n        pos = self.findPosByName(name)\n\n        if pos == -1:\n            c = Contact(name)\n            self.contacts.append(c)\n            self.contacts.sort(key=lambda x: x.getName())\n            pos = self.findPosByName(name)\n\n        for f in fones:\n            if f.isValid():\n                self.contacts[pos].addFone(f.id, f.number)\n            else:\n                print(\"fail: n\u00famero inv\u00e1lido\")\n    def getContact(self, name: str):\n        pos = self.findPosByName(name)\n        return self.contacts[pos] if pos != -1 else None\n\n    def rmContact(self, name: str):\n        pos = self.findPosByName(name)\n        if pos == -1:\n            print(\"fail: contato n\u00e3o existe\")\n            return\n        self.contacts.pop(pos)\n\n    def search(self, pattern: str):\n        result = []\n        for c in self.contacts:\n            if pattern in c.getName():\n                result.append(c)\n                continue\n\n            for f in c.getFones():\n                if pattern in f.id or pattern in f.number:\n                    result.append(c)\n                    break\n\n        return result\n\n    def getFavorited(self):\n        return [c for c in self.contacts if c.isFavorited()]\n\n    def getContacts(self):\n        return self.contacts\n\n    def __str__(self):\n        return \"\\n\".join(str(c) for c in self.contacts)\n\n    def toString(self):\n        return self.__str__()\n\ndef main():\n    agenda = Agenda()\n    while True:\n        line = input()\n        print(\"$\" + line)\n        args = line.split(\" \")\n\n        if args[0] == \"end\":\n            break\n        elif args[0] == \"add\":\n            name = args[1]\n            fones = []\n            for item in args[2:]:\n                id, num = item.split(\":\")\n                fones.append(Fone(id, num))\n            agenda.addContact(name, fones)\n        elif args[0] == \"show\":\n            print(agenda)\n        elif args[0] == \"rmFone\":\n            name = args[1]\n            index = int(args[2])\n            contact = agenda.getContact(name)\n            contact.rmFone(index)\n        elif args[0] == \"rm\":\n            agenda.rmContact(args[1])\n        elif args[0] == \"search\":\n            pattern = args[1]\n            res = agenda.search(pattern)\n            for c in res:\n                print(c)\n        elif args[0] == \"tfav\":\n            c = agenda.getContact(args[1])\n            c.toggleFavorited()\n\nmain()",
+            "lines": "151"
+        }
+    ]
+}
