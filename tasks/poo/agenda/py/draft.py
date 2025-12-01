@@ -105,6 +105,7 @@ class Agenda:
     def getFavorited(self):
         return [c for c in self.contacts if c.isFavorited()]
 
+
     def getContacts(self):
         return self.contacts
 
@@ -147,5 +148,10 @@ def main():
         elif args[0] == "tfav":
             c = agenda.getContact(args[1])
             c.toggleFavorited()
+        elif args[0] == "favs":
+            for c in agenda.getFavorited():
+                print(c)
+
+
 
 main()
